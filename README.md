@@ -1,2 +1,2 @@
-# Simple_MBTI
+# Web basic
 HTML, CSS, JS learning
